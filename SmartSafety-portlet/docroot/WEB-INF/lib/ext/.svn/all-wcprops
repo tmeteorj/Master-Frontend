@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/SmartsafetyPlatform/!svn/ver/2/SmartSafety-portlet/docroot/WEB-INF/lib/ext
+END
+jbosscache-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/SmartsafetyPlatform/!svn/ver/2/SmartSafety-portlet/docroot/WEB-INF/lib/ext/jbosscache-core.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/SmartsafetyPlatform/!svn/ver/2/SmartSafety-portlet/docroot/WEB-INF/lib/ext/servlet-api.jar
+END
+jboss-common-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/SmartsafetyPlatform/!svn/ver/2/SmartSafety-portlet/docroot/WEB-INF/lib/ext/jboss-common-core.jar
+END
+jboss-logging-spi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/SmartsafetyPlatform/!svn/ver/2/SmartSafety-portlet/docroot/WEB-INF/lib/ext/jboss-logging-spi.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/SmartsafetyPlatform/!svn/ver/2/SmartSafety-portlet/docroot/WEB-INF/lib/ext/mail.jar
+END
+jboss-j2ee.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/SmartsafetyPlatform/!svn/ver/2/SmartSafety-portlet/docroot/WEB-INF/lib/ext/jboss-j2ee.jar
+END

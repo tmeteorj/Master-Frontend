@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+#editds_whole{
+	width:1000px;
+	height:900px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#editds_body{
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+}
+h1{
+	text-align:center;
+	color:#336699;
+	margin-top:15px;
+	margin-bottom:15px;
+}

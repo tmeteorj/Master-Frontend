@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/SmartsafetyPlatform/!svn/ver/17/SmartSafety-portlet
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/SmartsafetyPlatform/!svn/ver/3/SmartSafety-portlet/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/SmartsafetyPlatform/!svn/ver/3/SmartSafety-portlet/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/SmartsafetyPlatform/!svn/ver/3/SmartSafety-portlet/build.xml
+END

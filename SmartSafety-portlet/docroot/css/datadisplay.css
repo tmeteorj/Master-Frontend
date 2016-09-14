@@ -1,0 +1,59 @@
+@CHARSET "UTF-8";
+#base {
+	width: 1800px;
+	height: 800px;
+	/*margin:2px 2px 2px 2px;
+	padding:2px 2px 2px 12px;*/
+	text-align:center;
+	margin:0 auto;
+  }
+#lefttop {
+	float: left;
+	width: 16%;
+	height: 47%;
+	margin:1% 0% 0% 3%;
+	outline-width:1px;
+	outline-style:solid; 
+	outline-color:#00BBFF;
+	outline-offset:20px;
+  }
+#leftbot {
+	float: left;
+	width: 16%;
+	height: 30%;
+	margin:2.5% 0% 1% 3%;
+	padding:5% 0px 0px 0px;
+	outline-width:1px;
+	outline-style:solid; 
+	outline-color:#00BBFF;
+	outline-offset:20px;
+  }
+#righttop {
+	float: right;
+	width: 75%;
+	height: 83%;
+	margin:1% 3% 0% 0%;
+	outline-width:1px;
+	outline-style:solid; 
+	outline-color:red;
+	outline-offset:20px;
+  }
+#rightbot {
+	float: right;
+	width: 75%;
+	height: 5%;
+	margin:2.5% 3% 1% 0%;
+	outline-width:1px;
+	outline-style:solid; 
+	outline-color:#00BBFF;
+	outline-offset:20px;
+}
+#allmap{
+	float:right;
+	width: 100%;
+	height: 100%;
+	outline-width:1px;
+	outline-style:solid; 
+	outline-color:#00BBFF;
+	outline-offset:20px;
+}
